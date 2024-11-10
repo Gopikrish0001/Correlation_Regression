@@ -56,6 +56,8 @@ plt.legend(['Regression Line','Data points'])
 ```
 # Output
 ![probability ex 3 output](https://github.com/user-attachments/assets/6d7461cb-aa1d-4c59-9c55-4c32ddd196c8)
+![image](https://github.com/user-attachments/assets/331f840f-2246-483a-852e-c121d0df67ce)
+
 
 
 # Result 
